@@ -9,4 +9,4 @@ Load forecast algorithm. The ANN is a mathematical tool that mimics the thought 
 ## Implementation
 I used csv2struct function to import the csv (or any Excel) file. Once the file is imported, I used the method of Artificial Neural Network to make a Load Forecasting model which predicts the load based on the inputs given. Alternatively, there is an in-built app in MATLAB called *ANN* where the model can be created automatically and can be used to predict the target based on the given inputs.
 
-**View Load Forecasting.pdf for full explanation**
+**View [Load Forecasting.pdf](../Load Forecasting.pdf) for full explanation**
